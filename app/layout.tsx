@@ -8,6 +8,7 @@ const gaId = process.env.NEXT_PUBLIC_GA_ID;
 export const metadata: Metadata = {
   title: pageContent.home?.metaTitle ?? `${site.name} — Codes, Weapons, Guides`,
   description: pageContent.home?.metaDesc ?? site.description,
+  verification: { google: '5_krcRXV0gLnSQZklBMt-u_CkJIAvqg8ih-ZKkVs0u8' },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
