@@ -59,7 +59,7 @@ export const site: SiteConfig = {
   name: 'Sovereign Tower',
   tagline: 'Knights, Quests & Time Reversal Guides',
   description: 'Fan-made Sovereign Tower reference: knights, quests, walkthroughs, and beginner guides for the narrative Round Table Knight simulation RPG by WILD WITS GAMES.',
-  url: 'https://sovereign-tower.site',
+  url: 'https://sovereigntower.space',
   officialLink: 'https://store.steampowered.com/app/4113940/Sovereign_Tower/',
   brand: 'SOVEREIGN<span>TOWER</span>',
   footerTitle: 'Sovereign Tower Guides',

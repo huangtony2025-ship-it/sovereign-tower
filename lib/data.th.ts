@@ -59,7 +59,7 @@ export const site: SiteConfig = {
   name: 'Sovereign Tower',
   tagline: 'คู่มืออัศวิน เควสต์ และการย้อนเวลา',
   description: 'แหล่งอ้างอิง Sovereign Tower แบบแฟนเมด: อัศวิน เควสต์ วอล์กทรู และคู่มือเริ่มต้น สำหรับเกม RPG จำลองอัศวินโต๊ะกลมโดย WILD WITS GAMES',
-  url: 'https://sovereign-tower.site/th',
+  url: 'https://sovereigntower.space/th',
   officialLink: 'https://store.steampowered.com/app/4113940/Sovereign_Tower/',
   brand: 'SOVEREIGN<span>TOWER</span>',
   footerTitle: 'คู่มือ Sovereign Tower',
